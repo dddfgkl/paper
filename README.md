@@ -1,7 +1,10 @@
 # paper
 
 paper read   
-start from:2019.09.30  
+Last edit: 2019.09.30 
+Author: ict_mac
+Copyright All reserved     
+ 
 
 ## list  
 
