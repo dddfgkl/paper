@@ -6,8 +6,13 @@
 
 ## 一、Attention的分类  
 
-### 1、Number of sequences  
-Distinctive & Co-attention    
+### 1、Number of sequences   
+#### (1) Distinctive   
+
+#### (2) Co-attention      
+- Hierarchical question-image co-attention for visual question answering  
+co-attention应用在VQA领域的文章  
+
 
 ----  
 
