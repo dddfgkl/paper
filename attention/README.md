@@ -11,13 +11,24 @@
 
 #### (2) Co-attention      
 - Hierarchical question-image co-attention for visual question answering  
-co-attention应用在VQA领域的文章  
+co-attention应用在VQA领域的文章   
+[LINK:] https://arxiv.org/pdf/1606.00061.pdf  
+
+
+#### (3) self-attention  
 
 
 ----  
 
 ### 2、Number of abstraction levels  
-Single-level & multi-level  
+#### (1) single-level    
+
+#### (2) multi-level    
+- Hierarchical Attention Networks for Document Classification  
+多尺度attention在文本分类任务上的应用  
+[LINK:] https://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf  
+
+
 
 ---- 
 
