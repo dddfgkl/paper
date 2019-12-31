@@ -6,20 +6,25 @@
 
 ## 一、Attention的分类  
 
-### 1、Distinctive & Co-attention  
+### 1、Number of sequences  
+Distinctive & Co-attention    
 
 ----  
 
-### 2、Single-level & multi-level  
+### 2、Number of abstraction levels  
+Single-level & multi-level  
 
 ---- 
 
-### 3、Soft & Hard & Local & Global  
+### 3、Number of positions
+Soft & Hard & Local & Global  
 
 ---- 
 
 
-### 4、  
+### 4、Number of representations  
+
+ 
 
 ----
 
