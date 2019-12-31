@@ -1,9 +1,9 @@
 # paper
 
 paper read   
-Last edit: 2019.09.30 
-Author: ict_mac
-Copyright All reserved     
+Last edit: 2019.09.30    
+Author: ict_mac   
+Copyright All reserved       
  
 
 ## list  
