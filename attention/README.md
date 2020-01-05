@@ -33,7 +33,11 @@ co-attention应用在VQA领域的文章
 ---- 
 
 ### 3、Number of positions
-Soft & Hard & Local & Global  
+Soft & Hard & Local & Global    
+
+- soft attention   
+[LINK:] https://arxiv.org/pdf/1409.0473.pdf  
+
 
 ---- 
 
