@@ -68,3 +68,16 @@ Random Fields
 
 - Salmon Run (强烈推荐各种系统合集)  
 [LINK:] http://sujitpal.blogspot.com/  
+
+
+- A Primer in BERTology: What we know about how BERT works  
+关于Bert的一篇综述  
+[LINK:] https://arxiv.org/abs/2002.12327  
+
+- The Mythos of Model Interpretability  
+主要关注NLP领域模型可解释性,引用数非常高，可以着重看看     
+[LINK:] https://arxiv.org/abs/1606.03490  
+
+- Analysis Methods in Neural Language Processing: A Survey  
+也是关注NLP可解释性研究方法的东西  
+[LINK:] https://arxiv.org/abs/1812.08951   
