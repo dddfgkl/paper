@@ -5,3 +5,12 @@
 论文是关于transrofmer的   
 [LINK1:关于transrofmer非常好的博客] https://jalammar.github.io/illustrated-transformer/
 
+
+- Using the Output Embedding to Improve Language Models  
+关于  
+[LINK:] https://arxiv.org/pdf/1608.05859.pdf   
+[NOTE:] ./Using the Output Embedding to Improve Language Models.md
+
+### info  
+Author: macong.ucaser@gmail.com    
+LastEdit: 2020.04.22 23:10   
