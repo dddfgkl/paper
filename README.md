@@ -1,10 +1,5 @@
-# paper
+# paper   
 
-paper read   
-Last edit: 2019.09.30    
-Author: ict_mac   
-Copyright All reserved       
- 
 
 ## list  
 
@@ -81,3 +76,10 @@ Random Fields
 - Analysis Methods in Neural Language Processing: A Survey  
 也是关注NLP可解释性研究方法的东西  
 [LINK:] https://arxiv.org/abs/1812.08951   
+
+
+-------
+paper read   
+Last edit: 2019.09.30    
+Author: macong.ucaser@gmail.com   
+Copyright All reserved    
