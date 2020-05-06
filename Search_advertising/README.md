@@ -11,7 +11,10 @@ for Web Search using Clickthrough Data
 大名鼎鼎的DSSM，主要用作相关性模型作为双塔模型的源模型  
 [LINK:] https://posenhuang.github.io/papers/cikm2013_DSSM_fullversion.pdf   
 
-   
+
+- Mobius: Towards the next generation of query-ad matching in Baidu's sponsored search  
+KDD的一篇关于搜索广告的文章，可以看看  
+[LINK:]  
 
 ----
 
