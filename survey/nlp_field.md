@@ -28,3 +28,8 @@
 
 - Knowledge Graphs  
 [LINK:] https://arxiv.org/abs/2003.02320v2  
+
+### 6、NER  
+- xxx  
+[LINK:] https://arxiv.org/pdf/1812.09449.pdf  
+
