@@ -21,6 +21,8 @@
 #### 模型      
 
 ##### 1、输入输出表示  
+<div align=center><img width="150" height="150" src="images/Bert_input.jpg"/>  
+
 ![image](images/Bert_input.jpg)    
 - 单个输入序列可以是一个句子或者一对句子  
 - [CLS]是输入序列的第一个特殊标识，可以作为后续分类任务的标识，编码了整个输入序列的信息  
