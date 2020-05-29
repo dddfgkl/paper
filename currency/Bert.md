@@ -21,9 +21,7 @@
 #### 模型      
 
 ##### 1、输入输出表示  
-<div align=center><img width="600" height="150" src="images/Bert_input.jpg"/>  
-
-![image](images/Bert_input.jpg)    
+<div align=center><img width="800" height="200" src="images/Bert_input.jpg"/>    
 - 单个输入序列可以是一个句子或者一对句子  
 - [CLS]是输入序列的第一个特殊标识，可以作为后续分类任务的标识，编码了整个输入序列的信息  
 - [SEP]标识为为了区别分隔前后句子，前面提到输入序列可以是一个句子也可以是一对句子，区别序列中token属于
