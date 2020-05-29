@@ -21,7 +21,7 @@
 #### 模型      
 
 ##### 1、输入输出表示  
-<div align=center><img width="150" height="150" src="images/Bert_input.jpg"/>  
+<div align=center><img width="600" height="150" src="images/Bert_input.jpg"/>  
 
 ![image](images/Bert_input.jpg)    
 - 单个输入序列可以是一个句子或者一对句子  
