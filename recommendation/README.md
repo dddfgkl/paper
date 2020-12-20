@@ -11,6 +11,14 @@ last edit : 2020.03.12
 关键词:CTR、Ranking、GBDT      
 [Link:]   
 
+- 关于广告相关的论文合集  
+[LINK:] https://github.com/dddfgkl/Ad-papers   
+
+
+---- 
+
+
+
 ### Todo list   
 
 
