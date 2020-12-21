@@ -20,7 +20,7 @@ Text Summarization和Keyword Extraction还是有区别的
 - Keyword Extraction for Social Snippets   
 针对Twitter这类短文本进行关键词抽取，里面阐述了数种关键词特征可以参考  
 [LINK:] http://ramb.ethz.ch/CDstore/www2010/www/p1143.pdf   
-[Skip to MyNote (click)](./Keyword_Extraction_for_Social_Snippets.md) 
+[Skip to MyNote (click)](Keyword_Extraction_for_Social_Snippets.md) 
 
 - 基于文档主题结构的关键词抽取方法研究  
 刘知远博士的毕业论文，使用LDA进行关键词抽取     

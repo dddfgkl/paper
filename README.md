@@ -34,7 +34,7 @@ Random Fields
 
 - Keyword Extraction for Social Snippets  
 [LINK:]http://ramb.ethz.ch/CDstore/www2010/www/p1143.pdf   
-[MyNote](./keyword_extraction/Keyword_Extraction_for_Social_Snippets.md)  
+[MyNote](keyword_extraction/Keyword_Extraction_for_Social_Snippets.md)  
 
 
 
