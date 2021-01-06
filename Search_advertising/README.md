@@ -14,8 +14,13 @@ for Web Search using Clickthrough Data
 
 - Mobius: Towards the next generation of query-ad matching in Baidu's sponsored search  
 KDD的一篇关于搜索广告的文章，可以看看  
-[LINK:]  
+[LINK:]    
 
+- Embedding-based Retrieval in Facebook Search  
+2020年facebook做向量化召回的一篇文章，非常具有代表性   
+[LINK:] https://arxiv.org/pdf/2006.11632.pdf   
+
+-  
 ----
 
 
