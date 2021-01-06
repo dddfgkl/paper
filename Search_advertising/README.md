@@ -8,8 +8,21 @@
   
 - Learning Deep Structured Semantic Models 
 for Web Search using Clickthrough Data  
-大名鼎鼎的DSSM，主要用作相关性模型作为双塔模型的源模型  
+大名鼎鼎的DSSM，主要用作相关性模型作为双塔模型的源模型,召回阶段和排序阶段均可用     
 [LINK:] https://posenhuang.github.io/papers/cikm2013_DSSM_fullversion.pdf   
+
+- Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate   
+ESSM，阿里在DSSM的基础上的延申，关注样本偏差，多目标等问题  
+[LINK:] https://arxiv.org/pdf/1804.07931.pdf   
+[Github:] (https://github.com/alibaba/x-deeplearning/wiki/%E5%85%A8%E7%A9%BA%E9%97%B4%E5%A4%9A%E4%BB%BB%E5%8A%A1%E6%A8%A1%E5%9E%8B(ESMM)      
+
+- DIN  
+深度兴趣网络  
+[LINK:]   
+
+   
+
+
 
 
 - Mobius: Towards the next generation of query-ad matching in Baidu's sponsored search  
