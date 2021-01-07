@@ -15,6 +15,16 @@ last edit : 2020.03.12
 [LINK:] https://github.com/dddfgkl/Ad-papers   
 
 
+- YoutubeDNN：[RecSys 2016]Deep Neural Networks for YouTube Recommendations  
+
+- NCF：[WWW 2017]Neural Collaborative Filtering   
+
+- MIND：[CIKM 2019]Multi-interest network with dynamic routing for recommendation at Tmall  
+
+- DSSM：[CIKM 2013]Deep Structured Semantic Models for Web Search using Clickthrough Data   
+
+
+
 ---- 
 
 
